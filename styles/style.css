@@ -43,8 +43,6 @@ h1, h2, article, span {
     text-decoration: none;
 }
 
-.header__link_active {}
-
 .header__logo {
     display: inline-flex;
     position: absolute;
@@ -63,9 +61,6 @@ h1, h2, article, span {
     line-height: 24px;
 }
 
-.address {
-
-}
 
 .header__address {
     align-content: center;
@@ -86,9 +81,6 @@ h1, h2, article, span {
     margin-bottom: 179px;
 }
 
-.cover__title {
-    /* display: flex; */
-}
 
 .aligned-text {
     font-weight: 700;
@@ -179,9 +171,6 @@ h1, h2, article, span {
     grid-template-columns: repeat(3, 1fr);
 }
 
-.lots__card-list-item {}
-
-.card-link {}
 
 .card {
     position: relative;
@@ -302,39 +291,6 @@ h1, h2, article, span {
     align-self: center;
 }
 
-
-.cover {
-
-}
-
-.cover__title {
-
-}
-
-.aligned-text {
-
-}
-
-.aligned-text_center {
-
-}
-
-.aligned-text_right {
-
-}
-
-.letter-spacing-extended {
-
-}
-
-.no-letter-spacing {
-
-}
-
-.cover__description {
-
-}
-
 .footer {
     display: flex;
     flex-direction: row;
@@ -357,13 +313,11 @@ h1, h2, article, span {
     list-style-type: none;
 }
 
-.footer__menu-list-item {}
 
 .footer__menu-link {
     text-decoration: none;
 }
 
-.footer__menu-link_active {}
 
 .footer__social-list {
     display: flex;
@@ -371,11 +325,6 @@ h1, h2, article, span {
     gap: 48px;
     list-style-type: none;
 }
-
-.footer__social-list-item {
-}
-
-.footer__social-link {}
 
 .footer__social-icon {
     width: 48px;
