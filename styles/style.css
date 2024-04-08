@@ -100,7 +100,7 @@ h1, h2, article, span {
     align-self: center;
 }
 
-.aligned-text_right { 
+.aligned-text_right {
     align-self: flex-end;
     margin-right: -24px;
 }
@@ -136,9 +136,8 @@ h1, h2, article, span {
     height: 51px;
     background-color: transparent;
     color: white;
-    border-style: 1px solid;
     border-color: white;
-    border-style:groove;
+    border-style: 1px solid;
     font-weight: 500;
     font-size: 22px;
     text-transform: uppercase;
