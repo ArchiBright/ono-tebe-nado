@@ -55,6 +55,7 @@
     line-height: 24px;
     padding-right: 25px;
     justify-self: self-end;
+    font-style: inherit;
 }
 
 .header__adress-phone {
@@ -230,8 +231,7 @@
     grid-auto-flow: row;
     gap: 25px;
     grid-template-columns: 1fr 2fr;
-    margin-bottom: 180px;
-    max-width: 1052px;
+    margin-bottom: 214px;
 }
 
 .about__column {
@@ -248,7 +248,8 @@
     border: 1px solid black;
     border-radius: 50%;
     justify-content: center;
-    margin-top: 35px;
+    margin-top: 45px;
+    margin-left: 20px;
 }
 
 .about__logo-image {
